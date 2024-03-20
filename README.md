@@ -1,12 +1,11 @@
-
-# **Dijkstra algorythm**
+# **Dijkstra algorithm**
 by: Tkachenko Nikita
 
 ---
 
-### Describtion
+### Description
 
-Implementation of [Dijstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) algorythm in C++ language. Used to find the shortest route between two nodes of a graph.
+Implementation of [Dijstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) algorithm in C++ language. Used to find the shortest route between two nodes of a graph.
 Uses my own implementation of [Graph](https://github.com/tka4nik/Graph) class.
 	
 
